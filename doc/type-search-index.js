@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"es.iessaladillo.consoleInput","l":"ConsoleInput"},{"p":"es.iessaladillo.consoleInput","l":"Main"}]
