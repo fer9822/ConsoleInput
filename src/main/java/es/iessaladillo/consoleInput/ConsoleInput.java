@@ -88,7 +88,7 @@ public class ConsoleInput {
 			} finally {
 				cleanInput(); // Para limpiar el buffer
 			}
-
+			System.out.println();
 		} while (!option);
 		return numByte;
 	}
